@@ -1,4 +1,4 @@
-# Low-level Book Codebase
+# "Image algorithms for low-level vision tasks" Codebase
 
 Source code for book *"Image algorithms for low-level vision tasks" (Jia. 2024, Publishing House of Electronics Industry, Broadview)*
 
