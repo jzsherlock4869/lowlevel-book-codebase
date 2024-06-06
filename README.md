@@ -35,6 +35,8 @@ Source code for book *["Image algorithms for low-level vision tasks" (Jia. 2024,
 - chapter 5 **Dehazing**
 
   including dehazing methods and networks (dark channel prior, DehazeNet etc.)
+  <p align="center">
+    <img src="ch5_dehaze/fig7.png" height=300>
 
 - chapter 6 **HDR**
 
