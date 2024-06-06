@@ -49,13 +49,13 @@ Source code for book *["Image algorithms for low-level vision tasks" (Jia. 2024,
   including alpha blending, laplacian blending and poisson blending, and image harmonization networks
   > example image ref: [link](https://github.com/willemmanuel/poisson-image-editing/tree/master/input/2)
   <p align="center">
-    <img src="ch7_composite/results/copy_paste.png" height=500>
+    <img src="ch7_composite/results/copy_paste.png" height=250>
 
 - chapter 8 **Enhancement**
 
   including low-light enhancement and color enhancement, retouch methods
   <p align="center">
-    <img src="ch8_enhance/results/invert_dehaze/out.png" height=500>
+    <img src="ch8_enhance/results/invert_dehaze/out.png" height=400>
 
 
 
