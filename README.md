@@ -4,7 +4,7 @@ Source code for book *["Image algorithms for low-level vision tasks" (Jia. 2024,
 
 
 <p align="center">
-  <img src="https://img3.doubanio.com/view/subject/l/public/s34877637.jpg" height=300>
+  <img src="./bookcover.jpg" height=300>
 
 ## How to use
 
@@ -17,17 +17,20 @@ Source code for book *["Image algorithms for low-level vision tasks" (Jia. 2024,
 - chapter 2 **Basics**
 
   including image transforms, histograms, color, and frequency analysis
-  ![histogram](ch2_basics/results/hist/hist_compare.png)
+  <p align="center">
+    <img src="ch2_basics/results/hist/hist_compare.png" height=300>
 
 - chapter 3 **Denoise**
 
   including classical denoising methods (Gaussian/wavelet/BM3D etc.) and DL based denoising method (DnCNN/FFDNet etc.)
-  ![guided_filter](ch3_denoise/results/guided_filter/guided.png)
+  <p align="center">
+    <img src="ch3_denoise/results/guided_filter/guided.png" height=300>
 
 - chapter 4 **Super-Resolution**
 
   including classical enhancing and DL based SR methods and network implementations (upsampling/USM and SRCNN/RCAN/EDSR etc.)
-  ![USM](ch4_super/results/usm/usm_result.png)
+  <p align="center">
+    <img src="ch4_super/results/usm/usm_result.png" height=300>
 
 - chapter 5 **Dehazing**
 
@@ -36,17 +39,21 @@ Source code for book *["Image algorithms for low-level vision tasks" (Jia. 2024,
 - chapter 6 **HDR**
 
   including classical HDR methods and DL based networks related to HDR tasks
-  ![reinhard](ch6_hdr/results/reinhard/reinhard_out.png)
+  <p align="center">
+    <img src="ch6_hdr/results/reinhard/reinhard_out.png" height=300>
 
 - chapter 7 **Composition**
 
   including alpha blending, laplacian blending and poisson blending, and image harmonization networks
-  ![image ref: [link](https://github.com/willemmanuel/poisson-image-editing/tree/master/input/2)](ch7_composite/results/copy_paste.png) 
+  > example image ref: [link](https://github.com/willemmanuel/poisson-image-editing/tree/master/input/2)
+  <p align="center">
+    <img src="ch7_composite/results/copy_paste.png" height=300>
 
 - chapter 8 **Enhancement**
 
   including low-light enhancement and color enhancement, retouch methods
-  ![lowlight enhancement](ch8_enhance/results/invert_dehaze/out.png)
+  <p align="center">
+    <img src="ch8_enhance/results/invert_dehaze/out.png" height=300>
 
 
 
