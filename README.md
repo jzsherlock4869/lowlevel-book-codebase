@@ -1,7 +1,10 @@
 # "Image algorithms for low-level vision tasks" Codebase
 
 Source code for book *["Image algorithms for low-level vision tasks" (Jia. 2024, Publishing House of Electronics Industry, Broadview)](https://book.douban.com/subject/36895899/)*
-<img src="https://img3.doubanio.com/view/subject/l/public/s34877637.jpg", alt="book cover", height="200">
+
+
+<p align="center">
+  <img src="https://img3.doubanio.com/view/subject/l/public/s34877637.jpg" height=300>
 
 ## How to use
 
