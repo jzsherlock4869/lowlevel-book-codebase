@@ -42,7 +42,7 @@ Source code for book *["Image algorithms for low-level vision tasks" (Jia. 2024,
 
   including classical HDR methods and DL based networks related to HDR tasks
   <p align="center">
-    <img src="ch6_hdr/results/reinhard/reinhard_out.png" height=300>
+    <img src="ch6_hdr/results/reinhard/reinhard_out.png" height=400>
 
 - chapter 7 **Composition**
 
