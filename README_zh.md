@@ -5,7 +5,8 @@
 本仓库为技术图书: *[图像画质算法与底层视觉技术 (贾壮, 2024, 电子工业出版社, 博文视点)](https://book.douban.com/subject/36895899/)* 的代码库。书中各个章节的代码均可在这里找到。所有代码均已运行验证通过。
 
 <p align="center">
-  <img src="./assets/bookcover.jpg" height=400>
+  <img src="./assets/bookcover.jpg" height=250>
+  <img src="./assets/bookcover_tw.jpg" height=230>
 
 ## 如何使用本书和本仓库
 
