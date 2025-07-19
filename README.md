@@ -9,7 +9,7 @@ Source code for book:
 
 <p align="center">
   <img src="./assets/bookcover.jpg" height=250>
-  <img src="./assets/bookcover_tw.jpg" height=230>
+  <img src="./assets/bookcover_tw.jpg" height=250>
 
 ## How to use
 
